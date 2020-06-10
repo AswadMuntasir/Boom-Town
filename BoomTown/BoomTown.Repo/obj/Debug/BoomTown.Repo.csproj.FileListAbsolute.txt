@@ -1,0 +1,19 @@
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Repo.dll
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Repo.pdb
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.csprojAssemblyReference.cache
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.csproj.CoreCompileInputs.cache
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.dll
+E:\AIUB\7th Semester FALL 2017-18\Object Oriented Programming-2 (I)\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Repo.dll
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Repo.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Data.dll
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Entities.dll
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\Framework.dll
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Data.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\BoomTown.Entities.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Repo\bin\Debug\Framework.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.csprojAssemblyReference.cache
+D:\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.csproj.CoreCompileInputs.cache
+D:\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.csproj.CopyComplete
+D:\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.dll
+D:\Boom Town Software\BoomTown\BoomTown.Repo\obj\Debug\BoomTown.Repo.pdb

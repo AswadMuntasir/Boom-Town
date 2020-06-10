@@ -1,0 +1,5 @@
+D:\Boom Town Software\BoomTown\BoomTown.Entities\bin\Debug\BoomTown.Entities.dll
+D:\Boom Town Software\BoomTown\BoomTown.Entities\bin\Debug\BoomTown.Entities.pdb
+D:\Boom Town Software\BoomTown\BoomTown.Entities\obj\Debug\BoomTown.Entities.csproj.CoreCompileInputs.cache
+D:\Boom Town Software\BoomTown\BoomTown.Entities\obj\Debug\BoomTown.Entities.dll
+D:\Boom Town Software\BoomTown\BoomTown.Entities\obj\Debug\BoomTown.Entities.pdb

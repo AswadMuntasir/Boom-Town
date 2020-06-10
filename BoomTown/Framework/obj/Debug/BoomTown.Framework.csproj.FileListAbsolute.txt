@@ -1,0 +1,6 @@
+D:\Boom Town Software\BoomTown\Framework\bin\Debug\Framework.dll
+D:\Boom Town Software\BoomTown\Framework\bin\Debug\Framework.pdb
+D:\Boom Town Software\BoomTown\Framework\obj\Debug\BoomTown.Framework.csproj.CoreCompileInputs.cache
+D:\Boom Town Software\BoomTown\Framework\obj\Debug\Framework.dll
+D:\Boom Town Software\BoomTown\Framework\obj\Debug\Framework.pdb
+D:\Boom Town Software\BoomTown\Framework\obj\Debug\BoomTown.Framework.csprojAssemblyReference.cache
